@@ -23,12 +23,12 @@ repository               : "saileshparvathy/saileshparvathy.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Parvathy"
+  name             : "Parvathy Sailesh"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "PhD Student"
   location         : "Lee Kuan Yew School of Public Policy"
   employer         : "National University of Singapore"
-  uri              : # URL
+  uri              : "https://saileshparvathy.github.io"
   email            : "parvathy.sailesh@u.nus.edu" 
 
   # Academic websites
