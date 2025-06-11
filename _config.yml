@@ -26,9 +26,9 @@ author:
   name             : "Parvathy Sailesh"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "PhD Student"
-  location         : "Lee Kuan Yew School of Public Policy"
-  employer         : "National University of Singapore"
-  uri              : "https://saileshparvathy.github.io"
+  location         : "Singapore"
+  #employer         : "National University of Singapore"
+  #uri              : "https://saileshparvathy.github.io"
   email            : "parvathy.sailesh@u.nus.edu" 
 
   # Academic websites
