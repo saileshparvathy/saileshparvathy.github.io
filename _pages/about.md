@@ -11,5 +11,5 @@ Welcome! I am a PhD student at the [Lee Kuan Yew School of Public Policy]([url](
 Previously, I earned an MA in Development Studies from IIT Guwahati and worked as a pre-doctoral fellow at IIM Bangalore. 
 
 <p align="center">
-![LKYSPP Logo](/images/LKYSPP logo.png){: width="240px" }
+  <img src="/images/LKYSPP%20logo.png" alt="LKYSPP Logo" width="240px">
 </p>
