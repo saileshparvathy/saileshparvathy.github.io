@@ -31,6 +31,6 @@ Featured in the Indian national daily _Mathrubhumi_
 
 ### Key Drivers of Welfare Project Benefits in Participatory Local Governance  
 Part of MA Dissertation, IIT Guwahati 
-[![PDF icon](/images/PDF_icon.png){:style="height:48px; margin-right:4px;"}PDF](../files/Dissertation_Welfare_Governance.pdf)
+[![PDF icon](/images/PDF_icon.png){:style="height:48px; margin-right:4px;"}PDF](files/Dissertation_sample.pdf)
 
 This study aims to explore the key factors that influence the monetary value of benefits that households receive from the welfare projects initiated by Gram Panchayats (local government bodies in rural areas) in Kerala, India. In the state of Kerala, Panchayati Raj Institutions (PRIs) at three levels implement annual development plans and select project beneficiaries through a participatory approach. Based on an original cross-sectional dataset built from beneficiary surveys in two Gram Panchayats, I model benefit availability using determinants identified through a literature survey. The findings show that Gram Sabha attendance, household size, ownership of enterprises, credit status, and the gender of the household head significantly influence benefit access.
