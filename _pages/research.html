@@ -1,36 +1,28 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+### 🌱 Climate Policy and Financial Spillovers  
+*Working paper — draft available upon request*
 
-{% include base_path %}
+This project explores how climate policy announcements in one country impact financial markets in another through trade and investment channels. Using event study and panel data methods, I show that...
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+[📄 Download Abstract](../files/climate_spillover_abstract.pdf)
 
+---
 
+### 🏔️ Natural Disasters and Environmental Governance  
+[📄 Read full paper (PDF)](../files/environment_governance_paper.pdf)
+
+This project investigates whether large-scale natural disasters influence legislative and public discourse around environmental policy...
+
+---
+
+### 🧠 Behavioral Spillover Effects of Carbon Tax  
+*In progress*
+
+Using survey data from senior citizens in Singapore, this study examines whether increased energy taxation leads to changes in private donations to climate causes...
 
