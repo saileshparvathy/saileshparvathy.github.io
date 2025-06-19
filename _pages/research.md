@@ -18,7 +18,7 @@ This study examines the impact of weather and natural disasters on student perfo
 
 ### Enablers of Successful Fiscal Decentralization: A Case Study of Three Gram Panchayats in Kerala  
 *Parvathy Sailesh and Dr. Padmini Ram (2022),* *Economic and Political Weekly*, 57(1), pp. 17–24  
-[![PDF icon](/images/PDF_icon.png){:style="height:48px; margin-right:4px;"}](files/EPW_article.pdf)
+[![PDF icon](/images/PDF_icon.png){:style="height:36px; margin-right:4px;"}PDF](files/EPW_article.pdf)
 
 Kerala is among the few states in India that have a successful record in fiscal decentralisation. This study qualitatively analyses primary data from three gram panchayats in Kerala to identify six factors that enable successful decentralised fiscal governance through Panchayati Raj: public participation, infrastructure and guidelines for governance, knowledge transfer and capacity building, optimum fiscal autonomy, local networks, and the state government as a facilitator. Based on the findings of the study, we construct a framework to assess the readiness of gram panchayats to carry out successful decentralised fiscal governance.
 
@@ -31,6 +31,6 @@ Kerala is among the few states in India that have a successful record in fiscal 
 
 ### Key Drivers of Welfare Project Benefits in Participatory Local Governance  
 *Parvathy Sailesh (2021). MA Dissertation, IIT Guwahati*  
-[![PDF icon](/images/PDF_icon.png){:style="height:48px; margin-right:4px;"}](../files/Dissertation_Welfare_Governance.pdf)
+[![PDF icon](/images/PDF_icon.png){:style="height:48px; margin-right:4px;"}PDF](../files/Dissertation_Welfare_Governance.pdf)
 
 This study aims to explore the key factors that influence the monetary value of benefits that households receive from the welfare projects initiated by Gram Panchayats (local government bodies in rural areas) in Kerala, India. In the state of Kerala, Panchayati Raj Institutions (PRIs) at three levels implement annual development plans and select project beneficiaries through a participatory approach. Based on an original cross-sectional dataset built from beneficiary surveys in two Gram Panchayats, I model benefit availability using determinants identified through a literature survey. The findings show that Gram Sabha attendance, household size, ownership of enterprises, credit status, and the gender of the household head significantly influence benefit access.
