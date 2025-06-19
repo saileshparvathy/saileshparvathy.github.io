@@ -17,12 +17,12 @@ This study examines the impact of weather and natural disasters on student perfo
 ## Journal Articles
 
 ### Enablers of Successful Fiscal Decentralization: A Case Study of Three Gram Panchayats in Kerala  
-*Parvathy Sailesh and Dr. Padmini Ram (2022),* *Economic and Political Weekly*, 57(1), pp. 17–24  
+*Sailesh, Parvathy & Ram, Padmini. (2022). “Enablers of Successful Fiscal Decentralization: A Case Study of Three Gram Panchayats in Kerala” _Economic and Political Weekly, 57(1), pp 17-24_
 [![PDF icon](/images/PDF_icon.png){:style="height:36px; margin-right:4px;"}PDF](files/EPW_article.pdf)
 
 Kerala is among the few states in India that have a successful record in fiscal decentralisation. This study qualitatively analyses primary data from three gram panchayats in Kerala to identify six factors that enable successful decentralised fiscal governance through Panchayati Raj: public participation, infrastructure and guidelines for governance, knowledge transfer and capacity building, optimum fiscal autonomy, local networks, and the state government as a facilitator. Based on the findings of the study, we construct a framework to assess the readiness of gram panchayats to carry out successful decentralised fiscal governance.
 
-*Featured in the Indian national daily* **Mathrubhumi**  
+Featured in the Indian national daily _Mathrubhumi_
 [View coverage](https://english.mathrubhumi.com/features/specials/fiscal-decentralisation-in-kerala-and-how-state-fight-for-federalism-with-union-government-db0ce405)
 
 ---
