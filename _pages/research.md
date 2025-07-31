@@ -17,8 +17,7 @@ This study examines the impact of weather and natural disasters on student perfo
 ## Academic Articles
 
 ### Enablers of Successful Fiscal Decentralization: A Case Study of Three Gram Panchayats in Kerala  
-Sailesh, Parvathy & Ram, Padmini. (2022). “Enablers of Successful Fiscal Decentralization: A Case Study of Three Gram Panchayats in Kerala” _Economic and Political Weekly, 57(1), pp 17-24_
-
+Sailesh, Parvathy & Ram, Padmini. (2022). “Enablers of Successful Fiscal Decentralization: A Case Study of Three Gram Panchayats in Kerala” _Economic and Political Weekly, 57(1), pp 17-24_  
 [![PDF icon](/images/PDF_icon.png){:style="height:36px; margin-right:4px;"}PDF](files/EPW_article.pdf)
 
 Kerala is among the few states in India that have a successful record in fiscal decentralisation. This study qualitatively analyses primary data from three gram panchayats in Kerala to identify six factors that enable successful decentralised fiscal governance through Panchayati Raj: public participation, infrastructure and guidelines for governance, knowledge transfer and capacity building, optimum fiscal autonomy, local networks, and the state government as a facilitator. Based on the findings of the study, we construct a framework to assess the readiness of gram panchayats to carry out successful decentralised fiscal governance.
@@ -31,9 +30,8 @@ Featured in the Indian national daily _Mathrubhumi_
 ## Journalistic Articles
 
 ### Made in China, Make in India: Bilateral Economic Relations Reimagined Through Industrial Policy
-China-India Brief #256 (July 2025), Centre on Asia and Globalisation, Lee Kuan Yew School of Public Policy, National University of Singapore.
-
-[![PDF icon](/images/PDF_icon.png){:style="height:36px; margin-right:4px;"}PDF](files/Dissertation_sample.pdf) | [Link](https://lkyspp.nus.edu.sg/cag/publications/center-publications/publication-article/detail/made-in-china--make-in-india--bilateral-economic-relations-reimagined-through-industrial-policy)
+China-India Brief #256 (July 2025), Centre on Asia and Globalisation, Lee Kuan Yew School of Public Policy, National University of Singapore.  
+[![PDF icon](/images/PDF_icon.png){:style="height:36px; margin-right:4px;"}PDF](files/Dissertation_sample.pdf), [Link](https://lkyspp.nus.edu.sg/cag/publications/center-publications/publication-article/detail/made-in-china--make-in-india--bilateral-economic-relations-reimagined-through-industrial-policy)
 
 In the backdrop of global economic and political shake-ups, 2025 marks a decade since the launch of two ambitious industrial policy projects—Made in China 2025 (MIC25) and Make in India (MII). While China’s mixed, yet largely positive, results have drawn international scrutiny, India’s progress has been more gradual and uneven. For much of their history, economic relations between these two Asian giants have been shaped—and often overshadowed—by geopolitical tensions. Today, as the global politico-economic order undergoes transformation, India-China economic relations are poised for a potential revival. In this essay, I argue that MIC25 and MII offer avenues for cooperation, and that the two countries stand to gain from pursuing strategic, selective interdependence rather than complete economic decoupling.
 
@@ -42,8 +40,7 @@ In the backdrop of global economic and political shake-ups, 2025 marks a decade 
 ## Other Work
 
 ### Key Drivers of Welfare Project Benefits in Participatory Local Governance  
-Part of MA Dissertation, IIT Guwahati 
-
+Part of MA Dissertation, IIT Guwahati  
 [![PDF icon](/images/PDF_icon.png){:style="height:36px; margin-right:4px;"}PDF](files/Dissertation_sample.pdf)
 
 This study aims to explore the key factors that influence the monetary value of benefits that households receive from the welfare projects initiated by Gram Panchayats (local government bodies in rural areas) in Kerala, India. In the state of Kerala, Panchayati Raj Institutions (PRIs) at three levels implement annual development plans and select project beneficiaries through a participatory approach. Based on an original cross-sectional dataset built from beneficiary surveys in two Gram Panchayats, I model benefit availability using determinants identified through a literature survey. The findings show that Gram Sabha attendance, household size, ownership of enterprises, credit status, and the gender of the household head significantly influence benefit access.
