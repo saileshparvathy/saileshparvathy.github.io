@@ -41,17 +41,3 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
-
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
-@import "minimal-mistakes";
-html {
-  font-size: 14px !important;  // down from default 16
-
-  @media (min-width: 64em) {
-    font-size: 15px !important;  // slightly larger on wide screens
-  }
-}
-
-body {
-  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, sans-serif !important;
-}
