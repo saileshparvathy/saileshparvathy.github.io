@@ -7,6 +7,11 @@ author_profile: true
 
 ## Work in Progress
 
+### Dark Shipping and the Shadow Fleets: Sanctions Enforcement, Insurance Thresholds, and Evasive Maritime Activity
+*Work in progress — draft available upon request*
+This paper examines how sanctions enforcement reshapes maritime behaviour through two channels. First, using Sentinel-1 SAR satellite imagery matched with AIS transponder data, I measure the increase in "dark" vessel activity at Russian ports following the G7 oil price cap, detecting ships that deliberately disable their tracking signals. Second, I exploit the discontinuity in P&I Club insurance coverage at vessel age thresholds to test whether losing access to compliant shipping infrastructure pushes vessels into shadow fleet operations. Together, the two components show that geoeconomic coercion generates spatial displacement rather than deterrence. This paper advances the weaponised interdependence literature in IPE, showing the limits of chokepoint-based coercion.
+
+
 ### Fleeting Shocks, Lasting Scars: Sanctions, Fertiliser Trade, and Environmental Damage in Africa
 *Work in progress — draft available upon request*
 US sanctions on Belaruskali (2021) and multilateral sanctions on Russia in the aftermath of the Russia-Ukraine war (2022) disrupted global fertilizer supply, disproportionately affecting countries with high fertilizer import dependence. When smallholder farmers cannot afford fertilizer, they resort to slash-and-burn clearing to restore soil fertility, causing biomass burning and irreversible forest loss. Using a Bartik shift-share instrument that exploits pre-shock province-level crop patterns, fertilizer use, and exposure to Russia-Belarus fertilizer imports across 54 African countries, I estimate the effect of geoeconomic coercion on biomass burning and forest loss in Africa. The paper advances the geoeconomics and weaponised interdependence literature in IPE, showing how sanctions generate asymmetric environmental externalities on uninvolved third parties.
