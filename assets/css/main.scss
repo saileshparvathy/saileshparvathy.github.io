@@ -44,7 +44,6 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
-
 html {
   font-size: 14px !important;  // down from default 16
 
