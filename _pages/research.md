@@ -7,9 +7,9 @@ author_profile: true
 
 ## Work in Progress
 
-### Weathering the Test: Environmental Drivers of College Admissions Test Performance in India  
-*Work in progress — draft available upon request*  
-This study examines the impact of weather and natural disasters on student performance in India’s Joint Entrance Examination (JEE), a high-stakes test for admission to premier engineering institutions. Using a multi-level fixed effects model on combined test performance and weather data for the years 2019–2024, the analysis finds that high humidity on or near exam day significantly reduces performance, while temperature effects are mixed: short-term high temperatures negatively impact outcomes, but long-term exposure improves performance. Natural disasters also have a substantial negative impact, lowering average ranks by 82 positions per standard deviation increase in number of houses damaged. A robustness check using quantile regressions reveals heterogenous impact of weather along the rank distribution. The results are of relevance to national higher education policy.
+### Fleeting Shocks, Lasting Scars: Sanctions, Fertiliser Trade, and Environmental Damage in Africa
+*Work in progress — draft available upon request*
+US sanctions on Belaruskali (2021) and multilateral sanctions on Russia in the aftermath of the Russia-Ukraine war (2022) disrupted global fertilizer supply, disproportionately affecting countries with high fertilizer import dependence. When smallholder farmers cannot afford fertilizer, they resort to slash-and-burn clearing to restore soil fertility, causing biomass burning and irreversible forest loss. Using a Bartik shift-share instrument that exploits pre-shock province-level crop patterns, fertilizer use, and exposure to Russia-Belarus fertilizer imports across 54 African countries, I estimate the effect of geoeconomic coercion on biomass burning and forest loss in Africa. The paper advances the geoeconomics and weaponised interdependence literature in IPE, showing how sanctions generate asymmetric environmental externalities on uninvolved third parties.
 
 ---
 
@@ -35,11 +35,15 @@ In the backdrop of global economic and political shake-ups, 2025 marks a decade 
 With Chenling Wan
 China Focus Blog, UC San Diego (August 2025)   
 [![PDF icon](/images/PDF_icon.png){:style="height:36px; margin-right:4px;"} PDF]({{ 'files/chinafocus.pdf' | relative_url }}), [Link](https://chinafocus.ucsd.edu/2025/08/21/on-drones-and-dreamliners-analysing-dissimilar-outcomes-of-made-in-china-2025-through-a-comparison-of-uav-and-passenger-aircraft-industries/)   
-In the backdrop of global economic and political shake-ups, 2025 marks a decade since the launch of two ambitious industrial policy projects—Made in China 2025 (MIC25) and Make in India (MII). While China’s mixed, yet largely positive, results have drawn international scrutiny, India’s progress has been more gradual and uneven. For much of their history, economic relations between these two Asian giants have been shaped—and often overshadowed—by geopolitical tensions. Today, as the global politico-economic order undergoes transformation, India-China economic relations are poised for a potential revival. In this essay, I argue that MIC25 and MII offer avenues for cooperation, and that the two countries stand to gain from pursuing strategic, selective interdependence rather than complete economic decoupling.
+Made in China 2025 produced starkly different outcomes even within the same sector: China's drone industry now dominates global markets, while its indigenous passenger aircraft programme has fallen short of key targets. This essay argues that the divergence stems from differences in supply-chain structure, R&D timelines, market composition, and the degree to which state-directed capital can substitute for established supplier networks. The comparison illustrates both the power and the limits of industrial policy in a state-controlled financial system. *Runner-up, 1990 Institute Prize, UC San Diego China Focus Essay Contest (2025)*.
 
 ---
 
 ## Other Work
+
+### Weathering the Test: Environmental Drivers of College Admissions Test Performance in India  
+*Draft available upon request*  
+This study examines the impact of weather and natural disasters on student performance in India’s Joint Entrance Examination (JEE), a high-stakes test for admission to premier engineering institutions. Using a multi-level fixed effects model on combined test performance and weather data for the years 2019–2024, the analysis finds that high humidity on or near exam day significantly reduces performance, while temperature effects are mixed: short-term high temperatures negatively impact outcomes, but long-term exposure improves performance. Natural disasters also have a substantial negative impact, lowering average ranks by 82 positions per standard deviation increase in number of houses damaged. A robustness check using quantile regressions reveals heterogenous impact of weather along the rank distribution. The results are of relevance to national higher education policy.
 
 ### Key Drivers of Welfare Project Benefits in Participatory Local Governance  
 Part of MA Dissertation, IIT Guwahati  
