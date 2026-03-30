@@ -12,7 +12,7 @@ author_profile: true
 
 [Graduate-level course on research methods covering basic causal inference. Led R tutorials for the class of ~30 students, and designed in-class problem sets.]
 
-![PP5001 class photo](/images/teaching-pp5001.jpg)
+![PP5001 class photo](/images/teaching-pp5904.jpeg)
 
 ---
 
